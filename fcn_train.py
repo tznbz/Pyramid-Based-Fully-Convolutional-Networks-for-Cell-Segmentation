@@ -356,7 +356,7 @@ def run_training(threshold = 0.47,kfolderid = 1,loadmodel = False):
 
 
 if __name__ == '__main__':
-    run_training(loadmodel = True)
+    run_training()
 
 
 
